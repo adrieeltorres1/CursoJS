@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(104, 104, 201);
+}
+h1 {
+    color: black;
+    font: normal 25pt Arial;
+}
+p {
+    color: white;
+    font: normal 15pt Arial;
+}
